@@ -20,4 +20,8 @@ done
 #abcdefg - matched, defg - not matched
 ^[a-z]{7}$
 
+#some additional bites for git
+#some new changes for NewOne
+#some new changes for NewOne
+#some new changes for NewOne
 
